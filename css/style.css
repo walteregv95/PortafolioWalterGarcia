@@ -421,6 +421,12 @@ a:hover {
   font-weight: 600;
 }
 
+.navbar-normal{
+  color: black;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
 .navbar-b.navbar-trans .nav-link:before,
 .navbar-b.navbar-reduce .nav-link:before {
   content: '';
@@ -505,6 +511,12 @@ a:hover {
 
 .navbar-b .navbar-brand {
   color: #fff;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.navbar-p {
+  color: black;
   font-size: 1.6rem;
   font-weight: 600;
 }
